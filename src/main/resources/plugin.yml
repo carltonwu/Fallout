@@ -1,0 +1,25 @@
+name: FlightRail
+version: '${project.version}'
+main: com.carltonwu.flightrail.FlightRail
+api-version: 1.17
+authors: [ CarltonWu ]
+
+commands:
+  awp:
+    description: Gives an awp
+    usage: /<command>
+  m4:
+    description: Gives a m4
+    usage: /<command>
+  kit:
+    description: Gives a kit
+    usage: /<command>
+  m97:
+    description: Gives a m97
+    usage: /<command>
+  topaz:
+    description: Gives a topaz
+    usage: /<command>
+  ammo:
+    description: Gives ammo
+    usage: /<command>
